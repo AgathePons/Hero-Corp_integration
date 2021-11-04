@@ -1,0 +1,148 @@
+body {
+  background-color: #D3D3D3;
+  padding: 15px;
+}
+
+.content-bloc {
+  font-family: 'Oswald', sans-serif;
+  background-color: #fff;
+  border: 1px solid #000;
+  width: 80%;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+/* ELEMENTS */
+h1 {
+  display: inline;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  margin: 15px;
+}
+
+h3 {
+  text-align: center;
+  color: #530007;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 15px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+p {
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+  line-height: 21px;
+}
+
+/* HEADER */
+header img {
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+}
+
+header .banner {
+  border-top: 2px solid #530007;
+  border-bottom: 2px solid #530007;
+  text-align: center;
+  margin: 15px 0;
+  padding: 10px 25px 5px 25px;
+}
+
+header .banner span {
+  display: inline-block;
+  width: 75px;
+  height: 30px;
+  background-color: #000;
+  color: #fff;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+/* ARTICLE */
+article {
+  background-color: #EEEEEE;
+  margin: 0 60px 15px 60px;
+  padding: 15px;
+}
+
+article .logo {
+  display: block;
+  width: 100px;
+  margin: 20px auto;
+}
+
+article .infos {
+  border-top: 1px solid #000;
+  text-align: center;
+  font-style: italic;
+  font-size: 13px;
+  line-height: 16px;
+  padding-top: 15px;
+}
+
+/* ASIDE */
+aside {
+  margin: 0 60px;
+}
+
+aside ul>li>a {
+  display: block;
+  width: 100%;
+  height: 28px;
+  margin-bottom: 5px;
+  border-radius: 14px;
+  background-color: #EEEEEE;
+  color: #530007;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 28px;
+  transition: all ease-in-out .3s;
+}
+
+aside ul>li>a:hover {
+  background-color: #530007;
+  color: #EEEEEE;
+  transition: all ease-in-out .3s;
+}
+
+aside .img-bloc {
+  width: 200px;
+  border: 2px solid #D3D3D3;
+  margin: 0 auto 15px auto;
+  padding: 15px;
+}
+
+aside .img-bloc img {
+  display: block;
+  width: 150px;
+  margin: 0 auto;
+}
+
+aside .img-bloc p {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+/* FOOTER */
+footer {
+  background-color: #EEEEEE;
+  padding : 20px 0 50px 0;
+}
+
+footer p {
+  text-align: center;
+  font-size: 15px;
+}
