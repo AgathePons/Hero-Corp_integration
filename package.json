@@ -1,0 +1,19 @@
+{
+  "name": "hero-corp",
+  "version": "1.0.0",
+  "description": "test scss on challenge project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/main.scss:./css/generated.css --style expanded"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Zagreus/S01E03-challenge-hero-corp-AgathePons.git"
+  },
+  "author": "Agathe Pons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Zagreus/S01E03-challenge-hero-corp-AgathePons/issues"
+  },
+  "homepage": "https://github.com/O-clock-Zagreus/S01E03-challenge-hero-corp-AgathePons#readme"
+}
