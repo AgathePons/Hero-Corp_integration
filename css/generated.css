@@ -1,0 +1,12 @@
+@import "../css/reset.css";
+header {
+  background-color: red;
+}
+header h1 {
+  background-color: aqua;
+}
+header h1 span {
+  color: blue;
+}
+
+/*# sourceMappingURL=generated.css.map */
