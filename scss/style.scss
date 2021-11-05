@@ -121,6 +121,11 @@ aside {
   }
 
   .img-bloc {
+    width: 200px;
+    border: 2px solid $medium-grey;
+    margin: 0 auto 15px auto;
+    padding: 15px;
+
     img {
       display: block;
       width: 150px;

@@ -113,6 +113,12 @@ aside ul > li > a:hover {
   color: #eee;
   transition: all ease-in-out 0.3s;
 }
+aside .img-bloc {
+  width: 200px;
+  border: 2px solid #d3d3d3;
+  margin: 0 auto 15px auto;
+  padding: 15px;
+}
 aside .img-bloc img {
   display: block;
   width: 150px;
